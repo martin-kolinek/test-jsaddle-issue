@@ -1,0 +1,9 @@
+dist/
+.cabal-sandbox/
+cabal.sandbox.config
+.stack-work/
+nohup.out
+dist-newstyle/
+result
+reflex-platform/
+TAGS
